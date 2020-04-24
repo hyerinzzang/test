@@ -9,6 +9,9 @@ public class Test {
 
 		System.out.println("11111");
 		System.out.println("난 조원");
+		System.out.println("abcd");
+		
+		System.out.println("조장이 수정함 dev1는 뻗어진상태");
 		
 
 
