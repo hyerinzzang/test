@@ -29,6 +29,10 @@ public class Test {
 		System.out.println("傳蹺陛");
 		
 		
+		System.out.println("zzzzz");
+		
+		System.out.println("六六六");
+		
 
 
 	}
